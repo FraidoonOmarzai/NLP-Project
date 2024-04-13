@@ -1,0 +1,10 @@
+numpy 
+pandas 
+tensorflow
+matplotlib
+seaborn
+nltk
+scikit-learn
+bs4
+
+-e .
