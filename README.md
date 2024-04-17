@@ -12,8 +12,8 @@ python template.py
 
 - install the new env and requirements.txt
 ```bash
-conda create -n hate-nlp python=3.10 -y
-conda activate hate-nlp
+conda create -n nlp-project python=3.10 -y
+conda activate nlp-project
 pip install -r requirements.txt
 ```
 
